@@ -11,12 +11,10 @@ import {
 } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { CalendarDateRangePicker } from "@/app//dashboard/_components/date-range-picker";
-import { MainNav } from "@/app/dashboard/_components/main-nav";
 import { Overview } from "@/app/dashboard/_components/overview";
 import { RecentSales } from "@/app/dashboard/_components/recent-sales";
-import { Search } from "@/app/dashboard/_components/search";
-import TeamSwitcher from "@/app/dashboard/_components/team-switcher";
-import { UserNav } from "@/app/dashboard/_components/user-nav";
+
+
 
 export const metadata: Metadata = {
   title: "Dashboard",
